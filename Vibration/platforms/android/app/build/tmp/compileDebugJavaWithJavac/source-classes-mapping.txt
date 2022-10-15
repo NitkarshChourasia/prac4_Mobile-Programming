@@ -1,0 +1,8 @@
+com/example/com/MainActivity.java
+ com.example.com.MainActivity
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+com/example/com/BuildConfig.java
+ com.example.com.BuildConfig

@@ -1,0 +1,11 @@
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+org/apache/cordova/networkinformation/NetworkManager.java
+ org.apache.cordova.networkinformation.NetworkManager
+ org.apache.cordova.networkinformation.NetworkManager$1
+com/a/net/BuildConfig.java
+ com.a.net.BuildConfig
+com/a/net/MainActivity.java
+ com.a.net.MainActivity

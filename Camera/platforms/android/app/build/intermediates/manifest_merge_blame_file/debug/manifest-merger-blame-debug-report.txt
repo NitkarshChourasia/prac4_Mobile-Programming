@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.c.cam"
+4    android:hardwareAccelerated="true"
+5    android:versionCode="10000"
+6    android:versionName="1.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+13        android:anyDensity="true"
+13-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+14        android:largeScreens="true"
+14-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+15        android:normalScreens="true"
+15-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+16        android:resizeable="true"
+16-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+17        android:smallScreens="true"
+17-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+18        android:xlargeScreens="true" />
+18-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+20-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:16:5-81
+21-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:16:22-78
+22
+23    <application
+23-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:5-15:19
+24        android:debuggable="true"
+25        android:hardwareAccelerated="true"
+25-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
+27        android:label="@string/app_name"
+27-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:88-120
+28        android:supportsRtl="true" >
+28-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:121-147
+29        <activity
+29-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+30            android:name="io.c.cam.MainActivity"
+30-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:205-232
+31            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+31-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:19-135
+32            android:label="@string/activity_name"
+32-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:136-173
+33            android:launchMode="singleTop"
+33-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:174-204
+34            android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
+34-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:233-295
+35            android:windowSoftInputMode="adjustResize" >
+35-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:296-338
+36            <intent-filter android:label="@string/launcher_name" >
+36-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+36-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+37-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+39-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <provider
+44            android:name="org.apache.cordova.camera.FileProvider"
+44-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:149-202
+45            android:authorities="io.c.cam.cordova.plugin.camera.provider"
+45-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:19-88
+46            android:exported="false"
+46-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:89-113
+47            android:grantUriPermissions="true" >
+47-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:114-148
+48            <meta-data
+48-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
+49                android:name="android.support.FILE_PROVIDER_PATHS"
+49-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
+50                android:resource="@xml/camera_provider_paths" />
+50-->C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:13:75-120
+51        </provider>
+52    </application>
+53
+54</manifest>

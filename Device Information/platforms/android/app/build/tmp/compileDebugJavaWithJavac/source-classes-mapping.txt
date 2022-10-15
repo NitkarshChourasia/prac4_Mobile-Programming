@@ -1,0 +1,10 @@
+org/apache/cordova/device/Device.java
+ org.apache.cordova.device.Device
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+io/cor/dd/BuildConfig.java
+ io.cor.dd.BuildConfig
+io/cor/dd/MainActivity.java
+ io.cor.dd.MainActivity

@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+provider#org.apache.cordova.camera.FileProvider
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
+	android:grantUriPermissions
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:114-148
+	android:authorities
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:19-88
+	android:exported
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:89-113
+	android:name
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:12:149-202
+manifest
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+MERGED from [:CordovaLib] C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\c3370c78ff78acb91693262b28be790f\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\f2bad2cd47cd16cf058ade4a8c249970\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\81d70144e6a7e24c9b6bd9e2151e7111\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\dfa5d16e90daf42cd98044116551e9a1\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\10a876addd49783e2eab48583b6bb5f1\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\1571ccc0f7a263c23c091db147965d8b\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\ab0a1ff2874f8cfe506a7951b3483d6d\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\9fc195fe65706d750610a6b0adfd9ae3\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\0b9a951eb2f2dfb15534e390fb337cfc\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\394c1ac3fe402d6c5b2c52a530e53999\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:102-120
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:121-179
+	android:versionCode
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:5-15:19
+	android:supportsRtl
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:121-147
+	android:label
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:88-120
+	android:hardwareAccelerated
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
+activity#io.c.cam.MainActivity
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:136-173
+	android:launchMode
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:174-204
+	android:windowSoftInputMode
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:296-338
+	android:configChanges
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:19-135
+	android:theme
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:233-295
+	android:name
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:6:205-232
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:16:22-78
+uses-sdk
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+MERGED from [:CordovaLib] C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\c3370c78ff78acb91693262b28be790f\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\c3370c78ff78acb91693262b28be790f\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\f2bad2cd47cd16cf058ade4a8c249970\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\f2bad2cd47cd16cf058ade4a8c249970\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\81d70144e6a7e24c9b6bd9e2151e7111\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\81d70144e6a7e24c9b6bd9e2151e7111\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\dfa5d16e90daf42cd98044116551e9a1\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\dfa5d16e90daf42cd98044116551e9a1\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\10a876addd49783e2eab48583b6bb5f1\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\10a876addd49783e2eab48583b6bb5f1\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\1571ccc0f7a263c23c091db147965d8b\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\1571ccc0f7a263c23c091db147965d8b\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\ab0a1ff2874f8cfe506a7951b3483d6d\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\ab0a1ff2874f8cfe506a7951b3483d6d\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\9fc195fe65706d750610a6b0adfd9ae3\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\9fc195fe65706d750610a6b0adfd9ae3\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\0b9a951eb2f2dfb15534e390fb337cfc\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\0b9a951eb2f2dfb15534e390fb337cfc\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\394c1ac3fe402d6c5b2c52a530e53999\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\WIN-10\.gradle\caches\transforms-2\files-2.1\394c1ac3fe402d6c5b2c52a530e53999\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
+	android:resource
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:13:75-120
+	android:name
+		ADDED from C:\Users\WIN-10\Desktop\App\Outut App All\CamDemo\platforms\android\app\src\main\AndroidManifest.xml:13:24-74

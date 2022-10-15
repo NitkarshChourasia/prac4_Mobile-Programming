@@ -1,0 +1,8 @@
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+io/c/ed/MainActivity.java
+ io.c.ed.MainActivity
+io/c/ed/BuildConfig.java
+ io.c.ed.BuildConfig

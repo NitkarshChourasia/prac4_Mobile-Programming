@@ -1,0 +1,21 @@
+org/apache/cordova/whitelist/WhitelistPlugin.java
+ org.apache.cordova.whitelist.WhitelistPlugin
+ org.apache.cordova.whitelist.WhitelistPlugin$1
+ org.apache.cordova.whitelist.WhitelistPlugin$CustomConfigXmlParser
+org/apache/cordova/contacts/ContactAccessor.java
+ org.apache.cordova.contacts.ContactAccessor
+ org.apache.cordova.contacts.ContactAccessor$WhereOptions
+com/example/contact/MainActivity.java
+ com.example.contact.MainActivity
+org/apache/cordova/contacts/ContactInfoDTO.java
+ org.apache.cordova.contacts.ContactInfoDTO
+org/apache/cordova/contacts/ContactManager.java
+ org.apache.cordova.contacts.ContactManager
+ org.apache.cordova.contacts.ContactManager$1
+ org.apache.cordova.contacts.ContactManager$2
+ org.apache.cordova.contacts.ContactManager$3
+ org.apache.cordova.contacts.ContactManager$4
+org/apache/cordova/contacts/ContactAccessorSdk5.java
+ org.apache.cordova.contacts.ContactAccessorSdk5
+com/example/contact/BuildConfig.java
+ com.example.contact.BuildConfig

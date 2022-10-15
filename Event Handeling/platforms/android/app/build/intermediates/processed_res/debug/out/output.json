@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "io.c.ed",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 10000,
+        "versionName": "1.0.0",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "io.c.ed",
+        "split": "",
+        "minSdkVersion": "22"
+      }
+    }
+  ]
+}
